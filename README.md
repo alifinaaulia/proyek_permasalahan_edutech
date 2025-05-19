@@ -228,7 +228,7 @@ Untuk menjalankan prototype sistem machine learning prediksi dropout yang telah 
    Perintah ini akan menjalankan aplikasi dan biasanya membuka halaman web prototype secara otomatis di browser.
 3. **Gunakan versi prototype yang sudah dideploy**
    Jika tidak ingin menjalankan secara lokal, pengguna juga dapat langsung mengakses aplikasi prototype melalui tautan berikut:  
-   [Buka Aplikasi Student Dropout Risk Prediction (Streamlit)]([https://streamlit-url-anda.streamlit.app](https://proyekpermasalahanedutech-alifinaaa.streamlit.app/)
+   [Aplikasi Student Dropout Risk Prediction (Streamlit)](https://proyekpermasalahanedutech-alifinaaa.streamlit.app/)
    Versi ini dapat digunakan untuk mencoba aplikasi tanpa harus menginstal apapun di perangkat lokal.
 
 ## Conclusion
