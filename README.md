@@ -220,15 +220,16 @@ Untuk menjalankan prototype sistem machine learning prediksi dropout yang telah 
    ```
    pip install -r requirements.txt
    ```
-2. **Jalankan aplikasi Streamlit**  
-   Pada terminal atau command prompt, navigasikan ke folder yang berisi file app.py dan jalankan perintah:
+2. **Jalankan aplikasi Streamlit secara lokal**  
+   Buka terminal atau command prompt, navigasikan ke folder yang berisi file `app.py`, lalu jalankan perintah berikut:
    ```
    streamlit run app.py
    ```  
    Perintah ini akan menjalankan aplikasi dan biasanya membuka halaman web prototype secara otomatis di browser.
-2. **Gunakan prototype**  
-   Setelah aplikasi terbuka di browser, pengguna dapat menginput data sesuai dengan form yang tersedia untuk mendapatkan prediksi risiko dropout secara langsung.
-
+3. **Gunakan versi prototype yang sudah dideploy** 
+   Jika tidak ingin menjalankan secara lokal, pengguna juga dapat langsung mengakses aplikasi prototype melalui tautan berikut:  
+   [Buka Aplikasi Student Dropout Risk Prediction (Streamlit)]([https://streamlit-url-anda.streamlit.app](https://proyekpermasalahanedutech-alifinaaa.streamlit.app/))
+   Versi ini dapat digunakan untuk mencoba aplikasi tanpa harus menginstal apapun di perangkat lokal.
 
 ## Conclusion
 
